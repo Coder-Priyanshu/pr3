@@ -1,0 +1,101 @@
+body {
+    background-color: #A8A4CE;
+    text-align: center;
+    margin: 10%;
+}
+
+.a {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: antiquewhite;
+    padding-right: 1rem;
+    width: 18%;
+    position: absolute;
+    margin: 0;
+    padding: 3rem 0 1rem 1rem;
+}
+.b{  
+    
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: antiquewhite;
+    width: 18%;
+    position: absolute;
+    margin-left: 20rem;
+    padding: 3rem 0 1rem 1rem;
+}
+.c{
+    
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: antiquewhite;
+    width: 18%;
+    position: absolute;
+    margin-left: 40rem;
+    padding: 3rem 0 1rem 1rem;
+}
+.d {
+    
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: antiquewhite;
+    width: 18%;
+    position: absolute;
+    margin-left: 60rem;
+    padding: 3rem 0 1rem 1rem;
+}
+
+.e {
+    width: 15rem;
+    height: 10rem;
+}
+
+.f {
+
+    width: 15rem;
+    height: 10rem;
+}
+
+.g {
+    width: 15rem;
+    height: 10rem;
+}
+
+.h {
+    width: 15rem;
+    height: 10rem;
+}
+
+.j {
+    text-align: left;
+    margin: 3rem;
+    width: 10rem;
+}
+.k{
+    position: relative;
+    padding-bottom: 3rem;
+}
+.btn {
+    -webkit-border-radius: 4;
+    -moz-border-radius: 4;
+    border-radius: 4px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 24px;
+    background: #138713;
+    padding: 5px 15px 5px 15px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #044a07;
+    text-decoration: none;
+  }
